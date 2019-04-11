@@ -26,7 +26,7 @@ Die folgenden Codebeispiele veranschaulichen, wie die <xref:System.Net.Sockets.S
   
 ## <a name="in-this-section"></a>In diesem Abschnitt  
  [Synchrone Clientsockets - Beispiel](../../../docs/framework/network-programming/synchronous-client-socket-example.md)  
- Veranschaulicht das Implementieren eines asynchronen <xref:System.Net.Sockets.Socket>-Clients, der eine Verbindung mit einem Server herstellt und vom Server zurückgegebene Daten anzeigt.  
+ Veranschaulicht das Implementieren eines synchronen <xref:System.Net.Sockets.Socket>-Clients, der eine Verbindung mit einem Server herstellt und vom Server zurückgegebene Daten anzeigt.  
   
  [Synchroner Serversocket, Beispiel](../../../docs/framework/network-programming/synchronous-server-socket-example.md)  
  Veranschaulicht das Implementieren eines synchronen <xref:System.Net.Sockets.Socket>-Servers, der Verbindungen von einem Client akzeptiert und die vom Client empfangenen Daten zurückgibt.  
